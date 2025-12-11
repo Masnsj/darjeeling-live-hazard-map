@@ -1,5 +1,5 @@
 """
-darjeeling_full_live_explained.py
+darjeeling_full_live.py
 
 Interactive Darjeeling hazard map (Folium + pywebview).
 Added full explanations beside each important line using comments.
@@ -359,4 +359,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
